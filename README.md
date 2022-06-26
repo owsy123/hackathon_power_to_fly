@@ -20,4 +20,4 @@
 -	Or function is used to display a warning “ Personal information identified” in case of any of keywords indicating that the information might be personal 
 ## **Team**
 
-1. Muhammad Owais 2. Irfan Ali 3. Subhan Farooq 4. Rahat Ali
+**1. Muhammad Owais** **2. Irfan Ali** **3. Subhan Farooq** **4. Rahat Ali**
